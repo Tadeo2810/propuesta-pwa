@@ -1,0 +1,23 @@
+{
+  "short_name": "MiPWA",
+  "name": "Mi Aplicación PWA",
+  "description": "Una aplicación web progresiva que funciona sin conexión.",
+  "icons": [
+    {
+      "src": "./icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "display": "standalone"
+}
